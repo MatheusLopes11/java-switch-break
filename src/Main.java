@@ -24,6 +24,7 @@ public class Main {
                 break;
             case 4: case 3:
                 conceito = "D";
+                break;
             case 2: case 1: case 0:
                 conceito = "E";
                 break;
