@@ -94,7 +94,7 @@ Durante o desenvolvimento deste exercício, pratiquei:
 Clone este repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/java-switch-conceitos.git
+git clone https://github.com/MatheusLopes11/java-switch-conceitos.git
 ```
 
 Acesse a pasta do projeto:
